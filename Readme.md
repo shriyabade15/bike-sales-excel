@@ -105,7 +105,7 @@ Bike_sales/
 
 These slicers allow dynamic segmentation of customer groups.
 
-![Bike Sales Dashboard](images/dashboard.png)
+![Bike Sales Dashboard](Images/dashboard.png)
 
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
