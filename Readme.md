@@ -118,6 +118,6 @@ These slicers allow dynamic segmentation of customer groups.
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Shruti Bade**    
-📧 Email: shrutibade12@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/shruti-bade)  
+**Shriya Bade**    
+📧 Email: shriyabade15@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/shriyabade)  
